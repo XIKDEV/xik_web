@@ -522,7 +522,7 @@ body {
   flex-wrap: wrap;
 }
 
-.copyrigth {
+.copyright {
   width: 100%;
 }
 
@@ -531,14 +531,15 @@ body {
   text-decoration: none;
   display: inline-block;
   margin-top: 10px;
+  margin-left: 10px;
 }
 
 .politica__privacidad:hover {
   text-decoration: underline;
 }
 
-.politica__privacidad--magin {
-  margin-left: 10px;
+.politica__privacidad--margin {
+  margin-left: 20px;
 }
 
 .get-email {
